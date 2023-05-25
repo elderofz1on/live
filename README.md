@@ -17,9 +17,15 @@ Repositório de projetos utilizado durante lives e oficinas
 ⚡ Disponível em https://www.youtube.com/watch?v=GOCv6s9PnDo
 
 💻 https://github.com/elderofz1on/live-maneki-neko-1
+
 💻 https://github.com/elderofz1on/live-maneki-neko-2
+
 💻 https://github.com/elderofz1on/live-maneki-neko-3
+
 💻 https://github.com/elderofz1on/live-maneki-neko-4
+
 💻 https://github.com/elderofz1on/live-maneki-neko-5
+
 💻 https://github.com/elderofz1on/live-maneki-neko-6
+
 💻 https://github.com/elderofz1on/live-maneki-neko-7
