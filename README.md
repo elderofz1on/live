@@ -50,5 +50,6 @@ Botão A: oitava acima
 Botão B: oitava abaixo
 setas "para cima" & "para baixo": muda instrumento
 
-<iframe src="https://scratch.mit.edu/projects/698706948/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+https://scratch.mit.edu/projects/698706948 
+
 
