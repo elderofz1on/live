@@ -30,8 +30,9 @@ Repositório de projetos utilizado durante lives e oficinas
 
 💻 https://github.com/elderofz1on/live-maneki-neko-7
 
-Projeto Piano - Scratch & BBC micro:bit
-keyboard
+👨‍💻 Projeto Piano - Scratch & BBC micro:bit
+
+keyboard<br>
 P2: connect right key
 P1: connect center key
 P0: connect left key
