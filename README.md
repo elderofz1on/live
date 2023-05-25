@@ -29,3 +29,26 @@ Repositório de projetos utilizado durante lives e oficinas
 💻 https://github.com/elderofz1on/live-maneki-neko-6
 
 💻 https://github.com/elderofz1on/live-maneki-neko-7
+
+Projeto Piano - Scratch & BBC micro:bit
+keyboard
+P2: connect right key
+P1: connect center key
+P0: connect left key
+GND: connect the bottom bar
+Button A : octave up
+Button B: octave down
+"up" & "down" arrow: change instrument
+
+-------------------------------
+teclado
+P2: conectar na tecla da direita
+P1: conectar na tecla do centro
+P0: conectar na tecla da esquerda
+GND: conectar à barra inferior
+Botão A: oitava acima
+Botão B: oitava abaixo
+setas "para cima" & "para baixo": muda instrumento
+
+<iframe src="https://scratch.mit.edu/projects/698706948/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
