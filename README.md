@@ -12,7 +12,7 @@ Repositório de projetos utilizado durante lives e oficinas
 ![makecode03]([makecode03.png](https://github.com/elderofz1on/programando-jogos-com-microbit/blob/main/makecode03.png))
 5. Agora é só abrir o projeto importado e se divertir.
 
-## "OFICINA 2 - Criando gadgets educacionais com micro:bit | Ricardo Santim" 
+## "OFICINA - Criando gadgets educacionais com micro:bit | Ricardo Santim" 
 ## Maneki Neko
 ⚡ Disponível em https://www.youtube.com/watch?v=GOCv6s9PnDo
 
@@ -31,6 +31,8 @@ Repositório de projetos utilizado durante lives e oficinas
 💻 https://github.com/elderofz1on/live-maneki-neko-7
 
 ## Projeto Piano - Scratch & BBC micro:bit
+👨‍💻 https://scratch.mit.edu/projects/698706948 
+
 keyboard<br>
 P2: connect right key<br>
 P1: connect center key<br>
@@ -49,6 +51,5 @@ Botão A: oitava acima<br>
 Botão B: oitava abaixo<br>
 setas "para cima" & "para baixo": muda instrumento<br>
 
-👨‍💻 https://scratch.mit.edu/projects/698706948 
-
-
+## "Live - A placa PERFEITA para AULAS mais CRIATIVAS! | Aplicar Ciências" 
+⚡ Disponível em https://www.youtube.com/watch?v=g6sYKywWsWA
